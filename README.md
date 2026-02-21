@@ -137,9 +137,12 @@ Results are saved as a CSV file for further analysis.
 
 
 ```bibtex
-@inproceedings{babel_to_brilliance,
-  title={From Babel to Brilliance: De-Noising Techniques for Cross-Lingual Sentence-Difficulty Classifiers},
-  author={Nouran Khallaf, Serge Sharoff},
-  year={2025},
+@inproceedings{khallaf_sharoff_2026_bert_noise,
+  title     = {How Much Noise Can BERT Handle? Insights from Multilingual Sentence Difficulty Detection},
+  author    = {Khallaf, Nouran and Sharoff, Serge},
+  booktitle = {Proceedings of the International Conference on Language Resources and Evaluation (LREC 2026)},
+  year      = {2026},
+  address   = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
 }
 ```

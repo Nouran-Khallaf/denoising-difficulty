@@ -142,6 +142,7 @@ Results are saved as a CSV file for further analysis.
   author    = {Khallaf, Nouran and Sharoff, Serge},
   booktitle = {Proceedings of the International Conference on Language Resources and Evaluation (LREC 2026)},
   year      = {2026},
+  month = {may},
   address   = {Palma, Mallorca, Spain},
   publisher = {European Language Resources Association (ELRA)},
 }
